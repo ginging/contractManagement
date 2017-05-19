@@ -7,8 +7,7 @@
       "container": "TOMCAT8",
       "war": [
          {
-            "file": "target/MongoDB_Servlet-0.0.1-SNAPSHOT.war",
-            "context": "/contractManagement"
+            "file": "target/MongoDB_Servlet-0.0.1-SNAPSHOT.war"
          }
       ]
    }
